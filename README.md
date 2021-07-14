@@ -4,5 +4,6 @@ first-steps-in-Python
 * list elem 1
 * list elem 2
 
-[b] shrift [\b]
-[i] shrift [\i]
+*курсив*
+**жирный**
+***жирный курсив***
