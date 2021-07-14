@@ -7,3 +7,6 @@ first-steps-in-Python
 *курсив*
 **жирный**
 ***жирный курсив***
+
+pictures:
+![pictures](pictures/Gerb.jpg)
